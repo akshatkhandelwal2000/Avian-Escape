@@ -1,1 +1,1 @@
-<h3> A desktop based game application developed using Java, Swing, AWT. </h3>
+# A Desktop Based Game Application Developed Using Java, Swing, AWT.
